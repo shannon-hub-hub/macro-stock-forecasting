@@ -43,3 +43,4 @@ Data was sourced from a market data provider (14 tickers' daily Close/Volume) an
 ## Authors
 
 This project was completed in collaboration with:
+Abby Lei, Zuzu Cho Oo
